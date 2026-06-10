@@ -1,1 +1,17 @@
-docs/
+# Compiled objects
+objects/
+*.o
+*.d
+
+# Binary
+Gomoku
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
